@@ -1,0 +1,6 @@
+package Clases.Espacio;
+
+import java.io.Serializable;
+
+public class EspacioFisico implements Serializable{
+}
